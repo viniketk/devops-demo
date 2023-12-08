@@ -1,2 +1,2 @@
 # devops-demo
-Dec-23 - Learning Devops
+8-Dec-23 - Learning Devops from Scratch
